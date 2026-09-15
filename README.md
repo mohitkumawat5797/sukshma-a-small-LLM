@@ -4,7 +4,7 @@
 
 > This is a learning project — "attempted to make a small LLM from not-so-scratch." Expect rough, early-stage generations rather than a polished chat model.
 
-## ⚠️ Current status: extremely undertrained
+##  Current status: extremely undertrained ! -so dont expect something 
 
 Let's be honest about where this is. The plan was 5000 training steps. Colab's free GPU had other plans.
 
