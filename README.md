@@ -108,5 +108,4 @@ Loss and perplexity over the 288 steps it got to run:
 - Contributions of spare compute are, unsurprisingly, extremely welcome.
 
 ## License
-
-No license file is currently included. Please add a license (e.g., [MIT](https://choosealicense.com/licenses/mit/) or [Apache-2.0](https://choosealicense.com/licenses/apache-2.0/)) to the repository if you want others to reuse this code.
+---
